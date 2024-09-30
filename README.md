@@ -3,7 +3,8 @@
 ---
 
 - Соц.сети
-  - https://vk.com/lucifer.xxxx
+  - VK ( https://vk.com/lucifer.xxxx )
+  - https://t.me/harley_wen
 
 
 
