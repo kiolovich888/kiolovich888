@@ -15,6 +15,8 @@
 - 🧑‍💻 Скиллы
   - Линукс на продвинутом уровне. Роднее Console ничего нет. 😸
   - Powershell, Python, HTML, CSS, JS, React.JS .
+- 🧑‍💻 СУБД
+  - PostgreSQL
 - 🧑‍💻 Мониторинг + Логирование
   - Prometheus + Grafana
   - ElasticSearch, Kibana, LogStash
