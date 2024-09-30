@@ -2,9 +2,9 @@
 # About me.
 ---
 
-- Соц.сети
+- 🐱 Соц.сети
   - VK ( https://vk.com/lucifer.xxxx )
-  - https://t.me/harley_wen
+  - Telegram ( https://t.me/harley_wen )
 
 
 
