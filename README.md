@@ -14,16 +14,19 @@
 
 - 🧑‍💻 Скиллы
   - Линукс на продвинутом уровне. Роднее Console ничего нет. 😸
-  - Powershell, Python, HTML, CSS, JS, React.JS .
+  - На базовом уровне:
+    - Powershell, Python, HTML, CSS, JS
 - 🧑‍💻 СУБД
   - PostgreSQL
 - 🧑‍💻 Мониторинг + Логирование
   - Prometheus + Grafana
-  - ElasticSearch, Kibana, LogStash
 - 🧑‍💻 Контейнеры
   - Docker, Docker Compose
-- 🧑‍💻 CI/CD and IaC
+
+- Цели на будущие изучить:
+  - 🧑‍💻 CI/CD and IaC
   - Jenkins ( CI/CD )
   - Ansible ( IaC )
+  - ElasticSearch, Kibana, LogStash
 
 
