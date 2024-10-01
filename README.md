@@ -25,8 +25,8 @@
 
 - Цели на будущие изучить:
   - 🧑‍💻 CI/CD and IaC
-  - Jenkins ( CI/CD )
-  - Ansible ( IaC )
+      - Jenkins ( CI/CD )
+      - Ansible ( IaC )
   - ElasticSearch, Kibana, LogStash
 
 
